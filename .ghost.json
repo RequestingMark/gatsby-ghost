@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://frosty-heyrovsky-442b45.netlify.app/",
+    "contentApiKey": ""
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://frosty-heyrovsky-442b45.netlify.app/",
+    "contentApiKey": ""
   }
 }
